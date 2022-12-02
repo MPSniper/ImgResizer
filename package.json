@@ -1,0 +1,17 @@
+{
+  "name": "imageresizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "tutorial to use electron-simple",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mohammad Pourbarfeh",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.1.12",
+    "resize-img": "^1.1.2",
+    "toastify-js": "^1.12.0"
+  }
+}
